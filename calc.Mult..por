@@ -17,7 +17,7 @@ programa
 		 escreva("4- Cálculo de Potência\n")
 		 escreva("5- Comparação de Números\n")
 		 escreva("6- Raiz de um Número\n")
-		 escreva("7- Expressões Logaritmicas")
+		 escreva("7- Expressões Logaritmicas\n")
 		 escreva("0- Sair\n\n")
 		 escreva("Escolha uma das Opções: ")
 		 leia(operacao)
